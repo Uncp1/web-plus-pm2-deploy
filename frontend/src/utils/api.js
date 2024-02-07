@@ -129,6 +129,6 @@ class Api {
     }).then(getResponse);
   }
 }
-const api = new Api("https://api.mesto.viktorf.nomoredomainswork.ru/");
+const api = new Api("https://api.mesto.viktorf.nomoredomainswork.ru");
 
 export default api;
